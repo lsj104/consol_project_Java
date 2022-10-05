@@ -1,22 +1,21 @@
 # 학교 데이터관리 프로그램  ✏️   
 
-* * *
 
 ## 1. 기획 목적 🔥
 - 코로나로 인한 학생 관리의 어려움
 - 비대면 수업으로 인한 학급 구성원의 소통이 어려움
 - 교사 사생활 보장으로 인한 퇴근시간 이후 연락의 어려움
 
-### 2. 개발 환경 ⚙️
+## 2. 개발 환경 ⚙️
 <img width="963" alt="스크린샷 2022-10-05 오후 8 45 28" src="https://user-images.githubusercontent.com/75536654/194053009-eac0b9be-0860-44b4-945a-fc6abf5b1eaf.png">
 
-### 3. 팀원 소개 및 업무 분담 👨‍👨‍👧‍👦
+## 3. 팀원 소개 및 업무 분담 👨‍👨‍👧‍👦
 <img width="772" alt="스크린샷 2022-10-05 오후 8 47 13" src="https://user-images.githubusercontent.com/75536654/194053279-9a696cd8-c93e-49df-996b-901951fd461f.png">
 
-### 4. 개발 일정 ⏰
+## 4. 개발 일정 ⏰
 <img width="996" alt="스크린샷 2022-10-05 오후 8 48 09" src="https://user-images.githubusercontent.com/75536654/194053459-f58c3b1d-da04-4411-91f0-7bb53630da3f.png">
 
-### 5. 기능 설명 📚
+## 5. 기능 설명 📚
 <img width="477" alt="메인 화면" src="https://user-images.githubusercontent.com/75536654/194057225-f6773dd6-167e-4775-8778-2c891813b95e.png">
 
 * 로그인 기능
